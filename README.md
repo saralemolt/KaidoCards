@@ -1,7 +1,9 @@
+<!DOCTYPE html>
+<html lang="nl">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>KaidoCards</title>
+<title>Mythisch Studenten Kaartspel</title>
 <style>
 body{font-family: 'Comic Sans MS', cursive; margin:0; background:#f5efe6; color:#2c2c2c}
 header{background:#2f2a4a; color:white; padding:20px; text-align:center}
@@ -18,7 +20,7 @@ footer{background:#2f2a4a; color:white; text-align:center; padding:15px}
 <body>
 
 <header>
-<h1>KaidoCards</h1>
+<h1>✨ Mythisch Studenten Kaartspel ✨</h1>
 <p>Een kaartspel door studenten, voor studenten</p>
 </header>
 
@@ -32,16 +34,14 @@ footer{background:#2f2a4a; color:white; text-align:center; padding:15px}
 
 <section id="home">
 <h2>Welkom!</h2>
-<p>Verwacht magie, chaos, strategie en een beetje humor.</p>
+<p>Welkom op de officiële website van ons mythische kaartspel! Dit spel is bedacht door studenten en gemaakt voor studenten. Verwacht magie, chaos, strategie en een beetje humor.</p>
 </section>
 
 <section id="spel">
 <h2>Hoe werkt het spel?</h2>
-<p>Spelregels:</p>
-Wat zit er in het spel 40: Vraagkaarten 12: Speciale kaarten Totaal 52 kaarten 
 <div class="card">
 <h3>Doel van het spel</h3>
-<p> </p>
+<p>Versla je vrienden door slimme kaarten te spelen en hun strategie te saboteren.</p>
 </div>
 
 <div class="card">
